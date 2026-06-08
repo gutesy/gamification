@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Study 1"
 permalink: /study1/
 ---
