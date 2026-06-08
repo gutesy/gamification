@@ -1,13 +1,17 @@
 ---
 layout: splash
 permalink: /
-title: "Research Showcase"
+title: "Elevator Pitches"
 ---
 
-# Research Showcase
+# Welcome to the Elevator
 
-Welcome to our research project website.
+Welcome to the website with our elevator pitches.
 
-This site presents three studies that we selected and analyzed as part of our coursework.
+This site contains summaries and important findings of our three selected papers from the Meta-Analysis.
 
-Use the navigation menu above to explore each study.
+Study 1 is Sean's.
+Study 2 is Karolina's.
+Study 3 is Chenxi's.
+
+Use the tabs above to navigate to your selected study.
