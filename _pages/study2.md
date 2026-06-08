@@ -45,29 +45,31 @@ Meaningful gamification courses
 -
 In meaningful gamification courses, students received the same syllabus but with added sections and grading structures that included gamification elements like play, narrative, feedback, choice, and engagement. The grading system used experience points (XP) for assignments, and students could “level up” as they mastered material. Extra credit could also be earned through cooperative class activities that encouraged role-play. Students in gamification courses were also randomly assigned to teams and given organizational problems. They acted as internal consultants with specific roles within the organization, such as frontline employees, support staff, managers, executives, or shareholders. Each team received detailed role descriptions and rules for how to act, behave, and dress in their roles. To further encourage role-play and teamwork, students could earn extra credit as a class for following role-play rules and working together, such as achieving high quiz averages or wearing proper attire. If the class did not cooperate, extra credit could be lost. This system was designed to mimic real organizational success and to increase both cooperation and competition among students. The amount of extra credit available was the same as in the traditional course.
 
-Method
+Measures and Procedures 
 -
-#Participants
-The study took place on the campus of a large metropolitan university during the course of 1 academic year. In two different sections (i.e., 10 a.m., 11 a.m.) of an I/O psychology course taught by the same professor 3 times a week for 50 min each semester, 99 undergraduate psychology students participated. 6 students were excluded from the analysis due to missing more than half of the data collection time points, leaving a total sample of 93 participants.
-The experimental condition consisted of 49 students, and the control condition consisted of 44 students. All courses consisted of lectures and experiential individual and team-based learning with the team project assignment accounting for 20% of the student’s final course grade. Teams were used throughout both classes for a semester-long team project, quizzing, and activities.
+To track the effectiveness of the course, researchers used three main tools to measure student progress and feelings. First, students took six identical quizzes throughout the semester to test their actual knowledge of the material, using a mix of multiple-choice and short-answer questions. Second, twelve "check-in" surveys were given during the term to see how students felt about the class activities and how much they thought they were learning at that specific moment. During these check-ins, students also rated how much different teaching styles actually helped them learn.
 
-#Measures and Procedures
-All students were assessed on content knowledge (i.e., quizzes), perceptions of learning and course experience (e.g., motivation, engagement), and teaching techniques (e.g., role-play, group projects) throughout the course.
-
-#Content knowledge measures
-Content quizzes were administered to assess students’ content knowledge of the course material at six time points throughout the course. The instructor administered a 9-item quiz at the beginning of class on scheduled quiz days, which included six multiple-choice and three short answer questions. Items on the quizzes were constructed by the course instructor and were the same for all conditions throughout the academic year.
-
-#Formative perception measures
-Students were administered formative assessment surveys at 12 different time points throughout the course, assessing students’ perceived experience, perceived learning, and perceived impact of teaching techniques being used in the course. These time points were formative assessments that corresponded with the end of class on team (working on team project) and activity (days spent applying course content to real-world situations) days in which students interacted with team members and adhered to role-play rules as assigned in the gamification course. Survey time points occurred over a 10-week period between the 2nd and 12th week of classes.
-
-#Perceived impact of teaching technique measures
-Students were asked to rate how much eight different teaching techniques helped their learning in the course. These techniques included group activities, team projects, quizzes, the professor, review sessions, exams, lectures, and role-playing (role-playing was only rated by students in the experimental group). Students rated each technique on a scale from 1 (not at all) to 7 (extremely). Each technique was analyzed separately to see its impact.
-
-At the end of the semester, students in the gamified course completed a 19-item survey about their overall experience. They rated statements about the course, such as whether being part of a team or role-playing motivated them to study, made the course more exciting, or increased their curiosity. These questions were rated on a scale from 1 (strongly disagree) to 5 (strongly agree). Students also chose which skills they thought could be developed through games, like problem-solving or critical thinking. Finally, they indicated their preferred learning style: competitive, cooperative, or individual. The survey was very reliable and was used to describe students’ experiences in the gamified course.
+Finally, at the end of the year, the gamified group completed a detailed survey to describe their overall experience. They rated whether the game-like elements made them more curious or motivated to study and identified which professional skills, such as critical thinking or problem-solving, they felt they had improved. They also shared their preferred learning style, choosing between working alone, working together, or competing against others. This thorough approach allowed the researchers to see not just what the students learned, but how the teaching methods changed their attitude toward the subject.
 
 Results
 -
-The data were analyzed using a mixed design 2 (condition: experimental vs. control) × 3(time: beginning, middle, end) analysis of covariance (ANCOVA) controlling for time of class. The within-subject variable time was created for content knowledge by averaging Quizzes 1–2 to assess the beginning of the semester knowledge gain, Quizzes 3–4 to assess the middle of the semester, and Quizzes 5–6 to assess the end of the semester. The within-subject variable time was created for formative perceptions measures by averaging Time Points 1–4 to assess the beginning of the semester, Time Points 5–8 to assess the middle of the semester, and Time Points 9–12 to assess the end of the semester.
+The data were analyzed using a mixed design 2 (condition: experimental vs. control) × 3(time: beginning, middle, end) analysis of covariance (ANCOVA) controlling for time of class. The specific statistical analysis mentioned was used to compare how students in the two different course versions progressed at the start, middle, and end of the semester. Researchers looked at three main areas: actual knowledge, how students felt about the class, and how much they thought they were learning 
+
+Results showed that actual academic performance was equal between the two groups; students in the gamified section scored just as well on content quizzes as those in the traditional section, proving the method is an effective way to teach core material. 
+
+While grades were similar, the student experience differed significantly, with those in the gamified course rating their time as much more enjoyable, engaging, and motivating. These students also reported higher confidence in their learning, feeling that the course was more effective at reinforcing key concepts and developing their reasoning skills compared to their experiences in traditional classes. Specifically, the gamified group felt that team-based projects and group activities had a much larger impact on their education. By the end of the term, students identified teamwork, problem-solving, and critical thinking as the primary skills they gained from the game-like environment, with nearly all participants favoring cooperative or individual learning over competition.
+
+What to take home?
+-
+There was no significant difference in quiz scores between the experimental and control groups. Both groups performed similarly on content knowledge tests throughout the semester.
+
+Students in the gamified course rated their overall experience more positively than those in the traditional course. They found the course more enjoyable, motivating, engaging, and fun.
+
+Students in the gamified course also reported higher perceptions of their own learning compared to the traditional group. 
+
+Students in the gamified course felt that group activities and team projects had a greater impact on their learning than students in the traditional. 
+
+Students in the gamified course rated role-playing, and they reported it had a high impact on their learning. There were no significant differences between groups for other teaching techniques.
 
 Content Knowledge
 -
