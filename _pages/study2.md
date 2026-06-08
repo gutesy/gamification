@@ -6,7 +6,7 @@ permalink: /study2/
 By Karolina Zdunek
 
 Meaningful Gamification in an Industrial/ Organizational Psychology Course
-Jessica A. Stansbury1 and David R. Earnest1
+Jessica A. Stansbury and David R. Earnest
 https://doi.org/10.1177/0098628316677645
 -
 
