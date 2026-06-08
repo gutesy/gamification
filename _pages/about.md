@@ -1,5 +1,6 @@
 ---
 layout: splash
+permalink: /
 title: "Research Showcase"
 ---
 
