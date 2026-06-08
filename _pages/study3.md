@@ -3,6 +3,8 @@ layout: splash
 title: "Study 3"
 permalink: /study3/
 ---
+By Chenxi Jiang
+---
 
 Citation
 Bonde, M. T., Makransky, G., Wandall, J., Larsen, M. V., Morsing, M., Jarmer, H., & Sommer, M. O. A. (2014). Improving biotech education through gamified laboratory simulations. Nature Biotechnology, 32*(7), 694–697.  
