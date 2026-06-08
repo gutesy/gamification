@@ -7,6 +7,7 @@ By Chenxi Jiang
 -
 
 Citation
+-
 Bonde, M. T., Makransky, G., Wandall, J., Larsen, M. V., Morsing, M., Jarmer, H., & Sommer, M. O. A. (2014). Improving biotech education through gamified laboratory simulations. Nature Biotechnology, 32*(7), 694–697.  
 https://doi.org/10.1038/nbt.2955
 -
@@ -25,6 +26,6 @@ Results
 -
 The simulation alone produced a 1.48 standard deviation gain in test scores, compared to 0.84 for traditional lectures — a 76% higher learning improvement (p < 0.0005). The combination of simulation and lecture yielded the highest overall scores. Learning was retained after 40 days, with no significant drop in performance. In motivation surveys, 97% of students found the simulation interesting, 86% preferred it over ordinary exercises, and 44% became more likely to consider a biotech career after using the simulation.
 
-Why We Chose It
+Why I Chose It
 -
-Our group chose this study because it addresses a real and urgent problem in science education: low student engagement and limited access to expensive lab equipment. Unlike many theoretical papers, this study provides strong quantitative evidence that gamification and simulation can work in practice. We were also impressed by the rigorous crossover design and long-term retention testing. As students interested in biotechnology and education, we find the idea of combining storytelling, 3D animations, and hands-on virtual labs highly inspiring. This study shows that learning can be both effective and enjoyable — a principle we want to promote through our website.
+I chose this study because it addresses a real and urgent problem in science education: low student engagement and limited access to expensive lab equipment. Unlike many theoretical papers, this study provides strong quantitative evidence that gamification and simulation can work in practice. I was also impressed by the rigorous crossover design and long-term retention testing. As a student interested in biotechnology and education, we find the idea of combining storytelling, 3D animations, and hands-on virtual labs highly inspiring. This study shows that learning can be both effective and enjoyable — a principle I want to promote through our website.
