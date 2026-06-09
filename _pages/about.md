@@ -15,6 +15,8 @@ Study 3 is Chenxi's.
 
 This website was created using the Academic Template created by user rjzupokii on GitHub. A link to the template can be found here: https://github.com/academicpages/academicpages.github.io
 
+We declare that artificial intelligence (studiGPT-4.1. and Notebook LM) was used to generate the initial content outline and text of the meta-analysis summary. ChatGPT 4.1 was used to help provide direction for setting up the website. The final text, analyses, and selection of materials were developed and verified by us.
+
 Meta-Analysis Summary
 -
 
