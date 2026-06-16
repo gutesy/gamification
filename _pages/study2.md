@@ -16,23 +16,19 @@ https://doi.org/10.1177/0098628316677645
 
 WHY THIS STUDY?
 -
-I’ve chosen his study, because it tests meaningful gamification in a higher education psychology course, using a quantitative, quasi-experimental design in the University environment. I think quasi-experiments aren’t that popular, so that was interesting. The second thing was that this study is taking a closer look at students' perceptions in academic settings. Also, because I am thinking about doing a PhD in the future, it may be useful for me to remember what I can use. The gamification elements used (role-play, narrative, leveling up) are easy to implement and don’t require advanced technology. It's also strong connected with meta-analysis, we can see what use universities and schools can have from the study.
+I’ve chosen this study, because it tests meaningful gamification in a higher education psychology course, using a quantitative, quasi-experimental design in the University environment. I think quasi-experiments aren’t that popular, so that was interesting. The second thing was that this study is taking a closer look at students' perceptions in academic settings. Also, because I am thinking about doing a PhD in the future, it may be useful for me to remember what I can use. The gamification elements used (role-play, narrative, leveling up) are easy to implement and don’t require advanced technology. It's also strongly connected with meta-analysis, we can see what use universities and schools can have from the study.
 
-_Meaningful Gamification in an Industrial/ Organizational Psychology Course_
-
+Meaningful Gamification in an Industrial/ Organizational Psychology Course
+-
 Educators often face the same questions every year: how can they make students interested, make the material important to them, have fun, and help students want to learn on their own? Research shows that good game design can make learning more interesting, motivating, challenging, and fun—qualities that traditional lectures often lack. Even though some people think games might not fit with higher education traditions, studies show that games in the classroom can create active learning, encourage creativity, teamwork, and help students want to learn for themselves.
-
-_The Current Research_
 
 The goal of this research is to create an IO psychology course that uses meaningful gamification and to see if this approach is more effective than traditional teaching. Specifically, the study asks if gamification can improve engagement, motivation, students’ views of their learning, and actual learning outcomes compared to regular teaching methods. 
 
 To test this, the researchers used a quasi-experimental design. One group of students took the gamified course, which included role-playing and choices at different levels (individual, team, and class), while another group took a traditional course. The researchers then compared learning outcomes, engagement, motivation, and students’ perceptions of their learning between the two groups.
 
-_Design of IO Psychology Course With Meaningful Gamification Elements_
-
 The organization profiled for this project was a national publicly held bank that provides retail and commercial baking products and services primarily on the east coast. Each course was similar in regard to course instruction. 
-In traditional courses, students received a standard syllabus with course details, objectives, and a regular grading system. They were randomly placed into teams and given one of five realistic organizational problems to solve, acting as external I/O psychology consultants for a national bank. The problems included issues like personnel, customer service, and work processes. Teams used textbooks, class notes, and research databases to develop solutions.
 
+In traditional courses, students received a standard syllabus with course details, objectives, and a regular grading system. They were randomly placed into teams and given one of five realistic organizational problems to solve, acting as external I/O psychology consultants for a national bank. The problems included issues like personnel, customer service, and work processes. Teams used textbooks, class notes, and research databases to develop solutions.
 In meaningful gamification courses, students received the same syllabus but with added sections and grading structures that included elements like play, narrative, feedback, choice, and engagement. The grading system used experience points for assignments, and students could “level up” as they mastered material. Extra credit could also be earned through cooperative class activities that encouraged role-play. Students in gamification courses were also randomly assigned to teams and given organizational problems. They acted as internal consultants with specific roles within the organization, such as frontline employees, support staff, managers, executives, or shareholders. Each team received detailed role descriptions and rules for how to act, behave, and dress in their roles. Students could earn extra credit as a class for following role-play rules and working together, such as achieving high quiz averages or wearing proper attire. If the class did not cooperate, extra credit could be lost.
 
 Participants
